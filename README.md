@@ -25,7 +25,7 @@ Client Needs:<br />
 Folders<br />
 OriginalSite: screenshots of the website before I started the project<br />
 SEO: screenshots of website traffic<br />
-HandCoded: the website that was sadly not used code can be seen here http://lindsaydealy.com/test_site/<br />
+Limitations of HomeStead would not allow upload for the HandCoded website: http://lindsaydealy.com/test_site/<br />
 
 --> The website was hosted by Intuit built with Homestead site builder. I did not know at the beginning of the project that I would not be able to use my own code <br />
 
